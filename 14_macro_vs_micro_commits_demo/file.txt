@@ -1,0 +1,1 @@
+Macro commits a large scale, commit all while micro commit, commits one-by-one, smaller scale commits.
