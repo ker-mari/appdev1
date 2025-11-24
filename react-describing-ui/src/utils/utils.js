@@ -4,5 +4,8 @@ export function getImageUrl(person, size = 's') {
     person.imageId +
     size +
     '.jpg'
+  
   );
+
+
 }
