@@ -9,6 +9,7 @@ import PackingList from './components/PackingList';
 import Impure from './components/Impure';
 import Pure from './components/Pure';
 import List from './components/List';
+import RootComponent from './components/RootComponent';
 
 
 function App() {
@@ -23,6 +24,8 @@ function App() {
       <Impure/>
       <h1>Pure Component</h1>
       <Pure/>
+      <RootComponent/>
+      
     </>
   )
 }
